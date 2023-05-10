@@ -1,16 +1,14 @@
-# myLittleNIDS
-
-🕵️ myLittleNIDS 🕵️
+# 🕵️ myLittleNIDS 🕵️
 myLittleNIDS is a simple Network Intrusion Detection System (NIDS) built using Python. The goal of this project is to provide a lightweight and easy-to-use tool for monitoring network traffic and detecting potential security threats.
 
-🔍 Features
+# 🔍 Features
 Real-time monitoring: myLittleNIDS constantly monitors network traffic to detect suspicious activity and alert you to potential security threats.
 
 Customizable rules: You can easily create and modify rules to match your specific security needs. These rules can be based on IP addresses, ports, protocols, and other network attributes.
 
 Easy-to-use interface: myLittleNIDS provides a simple command-line interface that lets you quickly start monitoring network traffic and view alerts.
 
-🚀 Getting Started
+# 🚀 Getting Started
 To use myLittleNIDS, simply clone the repository and run the ids.py script:
 
 bash

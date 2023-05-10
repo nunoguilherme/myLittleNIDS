@@ -11,13 +11,13 @@ Easy-to-use interface: myLittleNIDS provides a simple command-line interface tha
 # 🚀 Getting Started
 To use myLittleNIDS, simply clone the repository and run the ids.py script:
 
-##Clone the myLittleNIDS repository
+>Clone the myLittleNIDS repository
 `git clone https://github.com/nunoguilherme/myLittleNIDS.git`
 
-##Navigate to the repository directory
+>Navigate to the repository directory
 `cd myLittleNIDS`
 
-##Start the IDS script
+>Start the IDS script
 `python ids.py`
 
 Once the script is running, myLittleNIDS will begin monitoring network traffic and alert you to any potential security threats.

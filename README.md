@@ -31,7 +31,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 # 🤝 Acknowledgements
 This project was inspired by the Suricata NIDS and built using the Scapy Python library. We would like to thank the developers of these projects for their contributions to the security community.
 
-🔒 Stay safe out there! 🛡️ 
+Any questions kindly let me know!
 
 
 

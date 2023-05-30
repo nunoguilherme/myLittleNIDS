@@ -23,13 +23,13 @@ To use myLittleNIDS, simply clone the repository and run the ids.py script:
 Once the script is running, myLittleNIDS will begin monitoring network traffic and alert you to any potential security threats.
 
 # 📝 Contributing
-If you're interested in contributing to myLittleNIDS, feel free to fork the repository and submit a pull request. We welcome any contributions, including bug fixes, feature additions, and documentation improvements.
+If you're interested in contributing to myLittleNIDS, feel free to fork the repository and submit a pull request. I welcome any contributions, including bug fixes, feature additions, and documentation improvements.
 
 # 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # 🤝 Acknowledgements
-This project was inspired by the Suricata NIDS and built using the Scapy Python library. We would like to thank the developers of these projects for their contributions to the security community.
+This project was inspired by the Suricata NIDS and built using the Scapy Python library. I would like to thank the developers of these projects for their contributions to the security community.
 
 Any questions kindly let me know!
 
